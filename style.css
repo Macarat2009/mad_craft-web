@@ -4,7 +4,7 @@
   display: flex;
   padding: 15px 15px;
   justify-content: space-between;
-  border-bottom: solid dimgray 1px;
+  border-bottom: solid rebeccapurple 1px;
   position: fixed;
   top: 0;
   right: 0;
@@ -16,6 +16,10 @@
   font-weight: bold;
   color: white;
   text-decoration: none;
+}
+
+.logo a:active {
+  color: rebeccapurple;
 }
 
 .logo a:hover {
@@ -42,6 +46,10 @@
 .menu {
   display: flex;
   align-items: center;
+}
+
+.menu a:active {
+  color: rebeccapurple;
 }
 
 .menu a:hover {
@@ -100,8 +108,8 @@ body {
   text-align: center;
   align-content: center;
   line-height: 25px;
-  border-top: solid dimgray 1px;
-  border-bottom: solid dimgray 1px;
+  border-top: solid rebeccapurple 1px;
+  border-bottom: solid rebeccapurple 1px;
 }
 
 .footer a {
