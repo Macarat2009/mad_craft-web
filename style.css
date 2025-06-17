@@ -18,10 +18,6 @@
   text-decoration: none;
 }
 
-.navbar a.aktivni {
-  color: rebeccapurple;
-}
-
 .menu a {
   color: white;
   text-decoration: none;
@@ -42,10 +38,6 @@
 .menu {
   display: flex;
   align-items: center;
-}
-
-.navbar a.aktivni {
-  color: rebeccapurple;
 }
 
 body {
