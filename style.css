@@ -29,12 +29,6 @@
   font-weight: bold;
 }
 
-.menu img {
-  width: 25px;
-  height: 25px;
-  margin-left: 15px;
-}
-
 .menu {
   display: flex;
   align-items: center;
