@@ -8,6 +8,6 @@ document.querySelectorAll('.navbar a').forEach(link => {
     
     setTimeout(() => {
       window.location.href = this.href;
-    }, 150);
+    }, 200);
   });
 });
