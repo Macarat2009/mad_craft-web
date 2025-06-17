@@ -18,11 +18,7 @@
   text-decoration: none;
 }
 
-.logo a:active {
-  color: rebeccapurple;
-}
-
-.logo a:hover {
+.navbar a.aktivni {
   color: rebeccapurple;
 }
 
@@ -48,14 +44,9 @@
   align-items: center;
 }
 
-.menu a:active {
-  color: dimgray;
+.navbar a.aktivni {
+  color: rebeccapurple;
 }
-
-.menu a:hover {
-  color: dimgray;
-}
-
 
 body {
   font-family: arial;
