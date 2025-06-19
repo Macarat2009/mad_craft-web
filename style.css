@@ -89,6 +89,10 @@ body {
   border-bottom: solid rebeccapurple 1px;
 }
 
+.footer a {
+  color: white;
+}
+
 .discord {
   display: inline-flex;
   align-items: center;
@@ -99,8 +103,5 @@ body {
   height: 18px;
   width: 18px;
   border-radius: 2px;
-}
-
-.footer a {
-  color: white;
+  margin-right: 5px;
 }
