@@ -89,6 +89,19 @@ body {
   border-bottom: solid rebeccapurple 1px;
 }
 
+.discord {
+  display: inline-flex;
+  align-items: center;
+  gap: 5px;
+}
+
+.discord img {
+  height: 18px;
+  width: 18px;
+  object-fit: contain;
+  border-radius: 2px;
+}
+
 .footer a {
   color: white;
 }
